@@ -1,4 +1,5 @@
 # Gitee MCP Server
+[![smithery badge](https://smithery.ai/badge/@ropon/mcp-gitee)](https://smithery.ai/server/@ropon/mcp-gitee)
 
 Gitee MCP Server is a Model Context Protocol (MCP) server implementation for Gitee. It provides a set of tools for interacting with Gitee's API, allowing AI assistants to manage repositories, issues, pull requests, and more.
 
@@ -21,6 +22,14 @@ Gitee MCP Server is a Model Context Protocol (MCP) server implementation for Git
 </details>
 
 ## Installation
+
+### Installing via Smithery
+
+To install mcp-gitee for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@ropon/mcp-gitee):
+
+```bash
+npx -y @smithery/cli install @ropon/mcp-gitee --client claude
+```
 
 ### Prerequisites
 
